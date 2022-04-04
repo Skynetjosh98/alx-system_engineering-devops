@@ -1,1 +1,1 @@
-script to display the firsst 10 lines of a file
+script to display the 3rd line of a file

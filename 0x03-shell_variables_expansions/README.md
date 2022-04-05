@@ -1,1 +1,1 @@
-script for question 2
+script to count the number of directories

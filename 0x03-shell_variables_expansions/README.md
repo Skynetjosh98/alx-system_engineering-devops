@@ -1,1 +1,1 @@
-script to create a new global variable
+script for question 8

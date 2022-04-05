@@ -1,1 +1,1 @@
-script to convert binary to decimal
+script for question 12
